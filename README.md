@@ -1,8 +1,8 @@
 # Verificador de Idade
 
-
-
 Este é um projeto simples de verificador de idade que utiliza HTML, CSS e JavaScript para determinar a faixa etária de uma pessoa e exibir uma imagem correspondente. O objetivo deste projeto é fornecer uma interface intuitiva para verificar a idade e mostrar uma imagem representativa da faixa etária.
+
+<img src="./assets/verificador.png" alt="">
 
 ## Funcionalidades
 
